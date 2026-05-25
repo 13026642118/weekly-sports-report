@@ -1,8 +1,3 @@
-# Personal Weekly Sports Report#个人每周体育报告个人每周体育报告#个人每周体育报告个人每周体育报告#个人每周体育报告#个人每周体育报告个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告#个人每周体育报告
-
-Auto-generated from Coros training data.由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。由Coros训练数据自动生成。
-
-
 阶段一：Coros MCP 认证
 调用 coros__get_help() 确认可用工具
 coros__authenticate_coros() 完成认证（邮箱+密码）
